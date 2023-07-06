@@ -1,0 +1,30 @@
+body{
+    background-color: #EFF3F6;
+    margin: 0;
+}
+.header{
+    background-color: #ffff;
+    max-width: 100%;
+    text-align: center;
+
+}
+.inner-content{
+    background-color: #ffff ;
+    padding: 1em;
+    box-sizing: border-box;
+}
+#main-row{
+    display: flex;
+}
+.fn{
+    width: 100%;
+    padding-bottom: 1.5em;
+}
+ .container{
+    max-width: 750px;
+    margin: 0 auto;
+    margin-bottom: 1rem
+ }
+.form{
+    margin-bottom: 1rem
+}
